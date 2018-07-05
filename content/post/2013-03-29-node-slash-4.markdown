@@ -1,0 +1,9 @@
+---
+categories: null
+comments: true
+date: 2013-03-29T00:00:00Z
+title: Testing Ecto
+url: /node/4
+---
+
+This is a test entry made with Ecto. I’m attaching a picture of the family taken toward the end of our recent OBX vacation to see how it posts.

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infosec on Lentigo.Net</title>
+    <link>https://lentigo.net/categories/infosec/</link>
+    <description>Recent content in Infosec on Lentigo.Net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Mar 2013 22:19:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://lentigo.net/categories/infosec/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How long will it take to guess your password?</title>
+      <link>https://lentigo.net/node/18/</link>
+      <pubDate>Fri, 29 Mar 2013 22:19:23 +0000</pubDate>
+      
+      <guid>https://lentigo.net/node/18/</guid>
+      <description>I came across Bruce Schneier&amp;rsquo;s article on choosing secure passwords some time ago but just reread it again. I find the description of the efforts that AccessData&amp;rsquo;s PRTK goes through to guess a password fascinating. Once of the things they teach in security classes is that brute force attacks will always work; the only protection is in the amount of time it will take to succeed. Throw a little intelligence into the guessing and that amount of time can get very short!</description>
+    </item>
+    
+  </channel>
+</rss>

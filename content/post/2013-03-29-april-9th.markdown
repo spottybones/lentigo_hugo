@@ -1,0 +1,36 @@
+---
+author: Scott Burns
+categories: null
+comments: true
+date: 2013-03-29T22:32:35Z
+title: April 9th, Evening
+url: /node/20
+---
+
+Some wins and losses this evening.  On the losing side was my last SANS class.
+I've been taking their SANS+S course for preparation to take the CISSP exam.
+This particular class is taught on-line using a Java-based classroom product
+called Elluminate.  It's always taken a bit of work to start it up on my
+PowerBook and I generally expect to have to kill and restart it a few times
+before it gets a good connection back to the mothership.  Tonight was worse
+than usual, requiring a reboot -- thankfully fast on a Mac -- and hunting down
+and deleting old Java Webstart cache files.   By the time I got it sorted and
+got into my class it was already 30 minutes in and too late to get into the
+flow.  I had a lot I wanted to get done this evening anyway so I bagged the
+class; I can listen to a recording later and get caught up.   I'm in no wild
+hurry to get my CISSP so will be spending a couple months studying up and take
+the test this summer.  I already hold a current SANS GSEC cert and the subject
+matter isn't wildly different.
+
+On the win side I think we've finally gotten Chris'
+[blog](http://www.chrisabraham.com) moved from MediaTemple to a dedicated
+server.  It's a largish site that, was getting killed by performance problems
+with the (mt) GridServer system.   I think the full site "rebuild" is just
+about done so he should be back in business in no time.  I hope it finishes
+soon, I'm tired and want to sleep.
+
+The [gs](http://www.mediatemple.net/webhosting/gs/) sounds good in theory, but
+in practice it's been a disappointment and I think needs another six months of
+testing and tweaks before it'll be ready for prime time.  I won't be around
+then, I'm going to be moving this site back to my trusty
+[Linode](http://www.linode.com) as soon as I get the time.

@@ -1,0 +1,12 @@
+---
+author: Scott Burns
+categories: null
+comments: true
+date: 2013-03-29T00:32:20Z
+title: Ahh, Back...
+url: /node/22
+---
+
+And newly moved from my old MediaTemple GS back to my trusty [Linode][].  I like the Linode much better.  Now to get to work on a theme for this site so these bi-annual posts will look nicer.
+
+[Linode]:http://www.linode.com
