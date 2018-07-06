@@ -1,4 +1,4 @@
-title = "Lentigo.Net"
+title = "Lentigo"
 baseURL = "https://lentigo-stage.netlify.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
@@ -6,7 +6,7 @@ theme = "gohugo-theme-ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
+# SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
@@ -29,3 +29,18 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About Us"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+
