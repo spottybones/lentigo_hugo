@@ -4,7 +4,6 @@ categories: null
 comments: true
 date: 2013-04-10T00:00:00Z
 title: Rapid Spring
-url: /blog/2013/04/10/rapid-spring/
 ---
 
 Here's some pictures from the garden in front of our house.
