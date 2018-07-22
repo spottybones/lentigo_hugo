@@ -2,7 +2,7 @@
 author: Scott Burns
 categories: null
 comments: true
-date: 2013-03-29T14:45:26Z
+date: 2007-03-07
 title: The Collectors of Hip
 url: /node/19
 ---
