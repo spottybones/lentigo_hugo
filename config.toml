@@ -1,5 +1,5 @@
 title = "Lentigo"
-baseURL = "https://lentigo-stage.netlify.com"
+baseURL = "https://lentigo.netlify.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 # themesDir = "../.."
