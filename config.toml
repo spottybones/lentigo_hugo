@@ -1,5 +1,5 @@
 title = "Lentigo"
-baseURL = "http://lentigo.net/"
+baseURL = "https://lentigo.net/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 # themesDir = "../.."
