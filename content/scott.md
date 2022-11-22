@@ -6,3 +6,5 @@ I’m Scott Burns, one of the authors of this site. I’m an IT manager, system 
 I’m married to Hope O’Keeffe, who you will also see around here,
 and we live with cats, occasional kids, and occasional dogs in Falls
 Church, VA.
+
+<a rel="me" href="https://indieweb.social/@spottybones">@spottybones@indieweb.social</a>
